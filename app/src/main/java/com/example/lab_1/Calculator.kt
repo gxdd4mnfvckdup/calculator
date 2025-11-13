@@ -41,7 +41,7 @@ fun Calculator(
                 textAlign = TextAlign.End,
                 modifier = Modifier
                     .fillMaxWidth()
-                    .padding(vertical = 12.dp),
+                    .padding(vertical = 32.dp),
                 fontWeight = FontWeight.Light,
                 fontSize = 88.sp,
                 color = Color.Black,
